@@ -1,6 +1,6 @@
 - 👋 Olá, sou Romulo Rueda
 - 👀 Estou interessado em aprender programação e conseguir uma vaga na área
-- 🌱 Estudando atualmente Python | Flask, Tkinter, MySQL
+- 🌱 Estudando atualmente Python | Django, Tkinter, MySQL, Automação
 - 💞️ Quero colaborar com novos estudantes
 - 📫 Pode me encontrar em romuloagrueda@gmail.com
 
